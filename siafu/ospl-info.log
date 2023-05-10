@@ -1,0 +1,84 @@
+========================================================================================
+Report      : WARNING
+Date        : dom abr 30 17:57:43 -03 2023
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : josivan-Nitro-AN515-54
+Process     : java <23727>
+Thread      : main thread 7fd931bff640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1682888263.918657333
+========================================================================================
+Report      : INFO
+Date        : dom abr 30 17:57:43 -03 2023
+Description : u_domainNew:Database allocated on heap
+Node        : josivan-Nitro-AN515-54
+Process     : java <23727>
+Thread      : spliced 7fd93166e640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1682888263.922374818
+========================================================================================
+Report      : INFO
+Date        : dom abr 30 17:57:43 -03 2023
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : josivan-Nitro-AN515-54
+Process     : java <23727>
+Thread      : spliced 7fd93166e640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1682888263.925169728
+========================================================================================
+Report      : INFO
+Date        : dom abr 30 17:57:43 -03 2023
+Description : Service cmsoap disabled
+Node        : josivan-Nitro-AN515-54
+Process     : java <23727>
+Thread      : spliced 7fd93166e640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1682888263.925306024
+========================================================================================
+Report      : INFO
+Date        : dom abr 30 17:57:43 -03 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : josivan-Nitro-AN515-54
+Process     : java <23727>
+Thread      : spliced 7fd93166e640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682888263.925677940
+========================================================================================
+Report      : INFO
+Date        : dom abr 30 17:57:43 -03 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : josivan-Nitro-AN515-54
+Process     : java <23727>
+Thread      : ddsi2 7fd9111ff640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682888263.929030606
+========================================================================================
+Report      : INFO
+Date        : dom abr 30 17:57:44 -03 2023
+Description : The durability service can by identified by ID: 500941594
+Node        : josivan-Nitro-AN515-54
+Process     : java <23727>
+Thread      : durability 7fd9115ff640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1682888264.232888099
+========================================================================================
+Report      : INFO
+Date        : dom abr 30 17:57:51 -03 2023
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : josivan-Nitro-AN515-54
+Process     : java <23727>
+Thread      : durability 7fd9115ff640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1682888271.642591039

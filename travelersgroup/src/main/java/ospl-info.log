@@ -1,0 +1,3261 @@
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 17:11:22 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <11609>
+Thread      : main thread 7fc2e4f9a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474315882.801192958
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 17:11:22 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <11609>
+Thread      : spliced 7fc2cc036700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474315882.811655900
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 17:11:22 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <11609>
+Thread      : spliced 7fc2cc036700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474315882.819056407
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 17:11:22 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <11609>
+Thread      : spliced 7fc2cc036700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474315882.819872337
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 17:11:22 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <11609>
+Thread      : spliced 7fc2cc036700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474315882.820727447
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 17:11:22 BRT 2016
+Description : using network interface wlp2s0 (139.82.2.179) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <11609>
+Thread      : ddsi2 7fc2bd52f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474315882.823554020
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 17:11:22 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <11609>
+Thread      : ddsi2 7fc2bd52f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474315882.830717230
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 17:11:22 BRT 2016
+Description : The durability service can by identified by ID: 586696378
+Node        : meslin-laptop
+Process     : java <11609>
+Thread      : durability 7fc2bd89e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474315882.935646442
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 17:11:30 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <11609>
+Thread      : durability 7fc2bd89e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474315890.344506573
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 17:27:30 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <13046>
+Thread      : main thread 7f60dfb9a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474316850.616564453
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 17:27:30 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <13046>
+Thread      : spliced 7f60dc018700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474316850.626534116
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 17:27:30 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <13046>
+Thread      : spliced 7f60dc018700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474316850.632440808
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 17:27:30 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <13046>
+Thread      : spliced 7f60dc018700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474316850.632802434
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 17:27:30 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <13046>
+Thread      : spliced 7f60dc018700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474316850.633420413
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 17:27:30 BRT 2016
+Description : using network interface wlp2s0 (139.82.2.179) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <13046>
+Thread      : ddsi2 7f60b8140700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474316850.635628165
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 17:27:30 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <13046>
+Thread      : ddsi2 7f60b8140700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474316850.640192449
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 17:27:30 BRT 2016
+Description : The durability service can by identified by ID: 800959984
+Node        : meslin-laptop
+Process     : java <13046>
+Thread      : durability 7f60b84af700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474316850.749748284
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 17:27:38 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <13046>
+Thread      : durability 7f60b84af700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474316858.159260455
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 17:27:55 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <13204>
+Thread      : main thread 7f80c363e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474316875.722344646
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 17:27:55 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <13204>
+Thread      : spliced 7f80ac021700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474316875.732809817
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 17:27:55 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <13204>
+Thread      : spliced 7f80ac021700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474316875.740237427
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 17:27:55 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <13204>
+Thread      : spliced 7f80ac021700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474316875.740918843
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 17:27:55 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <13204>
+Thread      : spliced 7f80ac021700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474316875.742033661
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 17:27:55 BRT 2016
+Description : using network interface wlp2s0 (139.82.2.179) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <13204>
+Thread      : ddsi2 7f804fb32700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474316875.745298562
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 17:27:55 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <13204>
+Thread      : ddsi2 7f804fb32700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474316875.751050461
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 17:27:55 BRT 2016
+Description : The durability service can by identified by ID: 1245198277
+Node        : meslin-laptop
+Process     : java <13204>
+Thread      : durability 7f809c19d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474316875.859519052
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 17:28:03 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <13204>
+Thread      : durability 7f809c19d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474316883.268223696
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 18:10:31 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <15112>
+Thread      : main thread 7fea8c63a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474319431.887309278
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:10:31 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <15112>
+Thread      : spliced 7fea8802d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474319431.897656626
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:10:31 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <15112>
+Thread      : spliced 7fea8802d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474319431.903134618
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:10:31 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <15112>
+Thread      : spliced 7fea8802d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474319431.903725624
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:10:31 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <15112>
+Thread      : spliced 7fea8802d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474319431.904385475
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 18:10:31 BRT 2016
+Description : using network interface wlp2s0 (139.82.2.179) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <15112>
+Thread      : ddsi2 7fea5cbc2700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474319431.907336652
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:10:31 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <15112>
+Thread      : ddsi2 7fea5cbc2700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474319431.912359490
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:10:31 BRT 2016
+Description : The durability service can by identified by ID: 226270532
+Node        : meslin-laptop
+Process     : java <15112>
+Thread      : durability 7fea5cf31700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474319431.919598565
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:10:39 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <15112>
+Thread      : durability 7fea5cf31700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474319439.328139194
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 18:12:26 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <15346>
+Thread      : main thread 7fbed90c8700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474319546.046611826
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:12:26 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <15346>
+Thread      : spliced 7fbeb002c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474319546.057103721
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:12:26 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <15346>
+Thread      : spliced 7fbeb002c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474319546.062484769
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:12:26 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <15346>
+Thread      : spliced 7fbeb002c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474319546.062804337
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:12:26 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <15346>
+Thread      : spliced 7fbeb002c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474319546.063333088
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 18:12:26 BRT 2016
+Description : using network interface wlp2s0 (139.82.2.179) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <15346>
+Thread      : ddsi2 7fbea9657700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474319546.065575797
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:12:26 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <15346>
+Thread      : ddsi2 7fbea9657700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474319546.070564222
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:12:26 BRT 2016
+Description : The durability service can by identified by ID: 2133137305
+Node        : meslin-laptop
+Process     : java <15346>
+Thread      : durability 7fbea99c6700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474319546.174277597
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:12:33 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <15346>
+Thread      : durability 7fbea99c6700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474319553.581742860
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 18:13:14 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <15546>
+Thread      : main thread 7f832b56a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474319594.383878386
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:13:14 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <15546>
+Thread      : spliced 7f830833e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474319594.395761055
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:13:14 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <15546>
+Thread      : spliced 7f830833e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474319594.404304481
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:13:14 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <15546>
+Thread      : spliced 7f830833e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474319594.404986105
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:13:14 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <15546>
+Thread      : spliced 7f830833e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474319594.405777678
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 18:13:14 BRT 2016
+Description : using network interface wlp2s0 (139.82.2.179) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <15546>
+Thread      : ddsi2 7f82b7a31700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474319594.408351937
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:13:14 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <15546>
+Thread      : ddsi2 7f82b7a31700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474319594.414092114
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:13:14 BRT 2016
+Description : The durability service can by identified by ID: 1107899300
+Node        : meslin-laptop
+Process     : java <15546>
+Thread      : durability 7f82b7da0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474319594.520101721
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:13:21 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <15546>
+Thread      : durability 7f82b7da0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474319601.928053157
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 18:15:10 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <15720>
+Thread      : main thread 7f759393c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474319710.583029492
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:15:10 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <15720>
+Thread      : spliced 7f7574013700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474319710.592545191
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:15:10 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <15720>
+Thread      : spliced 7f7574013700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474319710.597321295
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:15:10 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <15720>
+Thread      : spliced 7f7574013700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474319710.597637302
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:15:10 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <15720>
+Thread      : spliced 7f7574013700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474319710.598019208
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 18:15:10 BRT 2016
+Description : using network interface wlp2s0 (139.82.2.179) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <15720>
+Thread      : ddsi2 7f756c148700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474319710.600320525
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:15:10 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <15720>
+Thread      : ddsi2 7f756c148700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474319710.605211794
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:15:10 BRT 2016
+Description : The durability service can by identified by ID: 735439473
+Node        : meslin-laptop
+Process     : java <15720>
+Thread      : durability 7f756c249700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474319710.713134852
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:15:18 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <15720>
+Thread      : durability 7f756c249700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474319718.121220337
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 18:15:26 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <15788>
+Thread      : main thread 7f64f4f2e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474319726.772612607
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:15:26 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <15788>
+Thread      : spliced 7f64dc026700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474319726.782028598
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:15:26 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <15788>
+Thread      : spliced 7f64dc026700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474319726.788398645
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:15:26 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <15788>
+Thread      : spliced 7f64dc026700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474319726.788994557
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:15:26 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <15788>
+Thread      : spliced 7f64dc026700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474319726.789740756
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 18:15:26 BRT 2016
+Description : using network interface wlp2s0 (139.82.2.179) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <15788>
+Thread      : ddsi2 7f64c54cb700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474319726.792234258
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:15:26 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <15788>
+Thread      : ddsi2 7f64c54cb700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474319726.797579034
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:15:26 BRT 2016
+Description : The durability service can by identified by ID: 415818019
+Node        : meslin-laptop
+Process     : java <15788>
+Thread      : durability 7f64c583a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474319726.901948511
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:15:34 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <15788>
+Thread      : durability 7f64c583a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474319734.310216375
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 18:16:58 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <16069>
+Thread      : main thread 7ff757fae700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474319818.776251513
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:16:58 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <16069>
+Thread      : spliced 7ff754014700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474319818.785736763
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:16:58 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <16069>
+Thread      : spliced 7ff754014700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474319818.794774010
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:16:58 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <16069>
+Thread      : spliced 7ff754014700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474319818.795411016
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:16:58 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <16069>
+Thread      : spliced 7ff754014700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474319818.796215956
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 18:16:58 BRT 2016
+Description : using network interface wlp2s0 (139.82.2.179) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <16069>
+Thread      : ddsi2 7ff72854f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474319818.799030323
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:16:58 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <16069>
+Thread      : ddsi2 7ff72854f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474319818.804267982
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:16:59 BRT 2016
+Description : The durability service can by identified by ID: 1274405655
+Node        : meslin-laptop
+Process     : java <16069>
+Thread      : durability 7ff7288be700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474319819.013164763
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:17:06 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <16069>
+Thread      : durability 7ff7288be700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474319826.421896540
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 18:18:18 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <16290>
+Thread      : main thread 7ff35535e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474319898.212545959
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:18:18 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <16290>
+Thread      : spliced 7ff33c044700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474319898.222506523
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:18:18 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <16290>
+Thread      : spliced 7ff33c044700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474319898.230588912
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:18:18 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <16290>
+Thread      : spliced 7ff33c044700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474319898.231151135
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:18:18 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <16290>
+Thread      : spliced 7ff33c044700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474319898.231725945
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 18:18:18 BRT 2016
+Description : using network interface wlp2s0 (139.82.2.179) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <16290>
+Thread      : ddsi2 7ff32d8e0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474319898.234850873
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:18:18 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <16290>
+Thread      : ddsi2 7ff32d8e0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474319898.241203536
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:18:18 BRT 2016
+Description : The durability service can by identified by ID: 1448816821
+Node        : meslin-laptop
+Process     : java <16290>
+Thread      : durability 7ff32dc4f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474319898.348607620
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:18:25 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <16290>
+Thread      : durability 7ff32dc4f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474319905.757307571
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 18:21:12 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <16506>
+Thread      : main thread 7f13c1cc4700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474320072.904494254
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:21:12 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <16506>
+Thread      : spliced 7f13bc013700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474320072.915217187
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:21:12 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <16506>
+Thread      : spliced 7f13bc013700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474320072.920839666
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:21:12 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <16506>
+Thread      : spliced 7f13bc013700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474320072.921237029
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:21:12 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <16506>
+Thread      : spliced 7f13bc013700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474320072.921981423
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 18:21:12 BRT 2016
+Description : using network interface wlp2s0 (139.82.2.179) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <16506>
+Thread      : ddsi2 7f139a215700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474320072.924288183
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:21:12 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <16506>
+Thread      : ddsi2 7f139a215700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474320072.928927688
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:21:13 BRT 2016
+Description : The durability service can by identified by ID: 1389584281
+Node        : meslin-laptop
+Process     : java <16506>
+Thread      : durability 7f139a584700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474320073.036237411
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:21:20 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <16506>
+Thread      : durability 7f139a584700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474320080.444839659
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 18:23:35 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <16659>
+Thread      : main thread 7f002f0b3700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474320215.184691127
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:23:35 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <16659>
+Thread      : spliced 7f002c019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474320215.195186208
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:23:35 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <16659>
+Thread      : spliced 7f002c019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474320215.200610158
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:23:35 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <16659>
+Thread      : spliced 7f002c019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474320215.201019961
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:23:35 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <16659>
+Thread      : spliced 7f002c019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474320215.201711123
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 18:23:35 BRT 2016
+Description : using network interface wlp2s0 (139.82.2.179) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <16659>
+Thread      : ddsi2 7effdf620700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474320215.204263779
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:23:35 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <16659>
+Thread      : ddsi2 7effdf620700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474320215.209665988
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:23:35 BRT 2016
+Description : The durability service can by identified by ID: 1539112920
+Node        : meslin-laptop
+Process     : java <16659>
+Thread      : durability 7effdf98f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474320215.315973718
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 18:23:42 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <16659>
+Thread      : durability 7effdf98f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474320222.724037334
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 20:12:33 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <7689>
+Thread      : main thread 7f1c4066d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474326753.730089923
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 20:12:33 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <7689>
+Thread      : spliced 7f1c11436700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474326753.760256448
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 20:12:33 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <7689>
+Thread      : spliced 7f1c11436700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474326753.765230850
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 20:12:33 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <7689>
+Thread      : spliced 7f1c11436700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474326753.766269568
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 20:12:33 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7689>
+Thread      : spliced 7f1c11436700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474326753.766911140
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 20:12:33 BRT 2016
+Description : using network interface wlp2s0 (139.82.254.241) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <7689>
+Thread      : ddsi2 7f1c10c0f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474326753.769590532
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 20:12:33 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7689>
+Thread      : ddsi2 7f1c10c0f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474326753.777639405
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 20:12:33 BRT 2016
+Description : The durability service can by identified by ID: 1505588680
+Node        : meslin-laptop
+Process     : java <7689>
+Thread      : durability 7f1c10f7e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474326753.783306933
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 20:12:41 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7689>
+Thread      : durability 7f1c10f7e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474326761.191879312
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 20:13:00 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <7782>
+Thread      : main thread 7f69d1fac700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474326780.241871315
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 20:13:00 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <7782>
+Thread      : spliced 7f69cc013700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474326780.252165128
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 20:13:00 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <7782>
+Thread      : spliced 7f69cc013700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474326780.261016002
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 20:13:00 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <7782>
+Thread      : spliced 7f69cc013700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474326780.261509877
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 20:13:00 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7782>
+Thread      : spliced 7f69cc013700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474326780.262085859
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 19 20:13:00 BRT 2016
+Description : using network interface wlp2s0 (139.82.254.241) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <7782>
+Thread      : ddsi2 7f69aa53d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474326780.265080221
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 20:13:00 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7782>
+Thread      : ddsi2 7f69aa53d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474326780.271825663
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 20:13:00 BRT 2016
+Description : The durability service can by identified by ID: 1920754168
+Node        : meslin-laptop
+Process     : java <7782>
+Thread      : durability 7f69aa8ac700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474326780.379667296
+========================================================================================
+Report      : INFO
+Date        : Seg Set 19 20:13:07 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7782>
+Thread      : durability 7f69aa8ac700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474326787.788763967
+========================================================================================
+Report      : WARNING
+Date        : Ter Set 20 09:52:37 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <6394>
+Thread      : main thread 7f3ae6456700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474375957.161344299
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 09:52:37 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <6394>
+Thread      : spliced 7f3ae004a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474375957.186651715
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 09:52:37 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <6394>
+Thread      : spliced 7f3ae004a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474375957.193839439
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 09:52:37 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <6394>
+Thread      : spliced 7f3ae004a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474375957.194253043
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 09:52:37 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <6394>
+Thread      : spliced 7f3ae004a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474375957.194800583
+========================================================================================
+Report      : WARNING
+Date        : Ter Set 20 09:52:37 BRT 2016
+Description : using network interface wlp2s0 (10.0.0.21) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <6394>
+Thread      : ddsi2 7f3abe979700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474375957.197277060
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 09:52:37 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <6394>
+Thread      : ddsi2 7f3abe979700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474375957.201956240
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 09:52:37 BRT 2016
+Description : The durability service can by identified by ID: 130843557
+Node        : meslin-laptop
+Process     : java <6394>
+Thread      : durability 7f3abece8700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474375957.205791210
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 09:52:44 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <6394>
+Thread      : durability 7f3abece8700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474375964.614064326
+========================================================================================
+Report      : WARNING
+Date        : Ter Set 20 10:33:07 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <7769>
+Thread      : main thread 7f47ba0ff700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474378387.680190943
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 10:33:07 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <7769>
+Thread      : spliced 7f47b404a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474378387.691491476
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 10:33:07 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <7769>
+Thread      : spliced 7f47b404a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474378387.699371199
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 10:33:07 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <7769>
+Thread      : spliced 7f47b404a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474378387.699859877
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 10:33:07 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7769>
+Thread      : spliced 7f47b404a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474378387.700485435
+========================================================================================
+Report      : WARNING
+Date        : Ter Set 20 10:33:07 BRT 2016
+Description : using network interface wlp2s0 (10.0.0.21) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <7769>
+Thread      : ddsi2 7f479264f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474378387.703221552
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 10:33:07 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7769>
+Thread      : ddsi2 7f479264f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474378387.708533332
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 10:33:07 BRT 2016
+Description : The durability service can by identified by ID: 724244490
+Node        : meslin-laptop
+Process     : java <7769>
+Thread      : durability 7f47929be700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474378387.917970841
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 10:33:15 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7769>
+Thread      : durability 7f47929be700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474378395.326032769
+========================================================================================
+Report      : WARNING
+Date        : Ter Set 20 10:34:09 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <7939>
+Thread      : main thread 7f18d94a4700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474378449.912100256
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 10:34:09 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <7939>
+Thread      : spliced 7f18d4016700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474378449.922651177
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 10:34:09 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <7939>
+Thread      : spliced 7f18d4016700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474378449.929678722
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 10:34:09 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <7939>
+Thread      : spliced 7f18d4016700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474378449.930455345
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 10:34:09 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7939>
+Thread      : spliced 7f18d4016700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474378449.931548119
+========================================================================================
+Report      : WARNING
+Date        : Ter Set 20 10:34:09 BRT 2016
+Description : using network interface wlp2s0 (10.0.0.21) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <7939>
+Thread      : ddsi2 7f18a1a34700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474378449.933557928
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 10:34:09 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7939>
+Thread      : ddsi2 7f18a1a34700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474378449.939049252
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 10:34:10 BRT 2016
+Description : The durability service can by identified by ID: 1374669352
+Node        : meslin-laptop
+Process     : java <7939>
+Thread      : durability 7f18a1da3700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474378450.044591158
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 10:34:17 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7939>
+Thread      : durability 7f18a1da3700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474378457.552804609
+========================================================================================
+Report      : WARNING
+Date        : Ter Set 20 10:40:43 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <8228>
+Thread      : main thread 7fea15300700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474378843.064493887
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 10:40:43 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <8228>
+Thread      : spliced 7fea10013700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474378843.075233610
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 10:40:43 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <8228>
+Thread      : spliced 7fea10013700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474378843.081121785
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 10:40:43 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <8228>
+Thread      : spliced 7fea10013700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474378843.081594713
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 10:40:43 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <8228>
+Thread      : spliced 7fea10013700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474378843.082200268
+========================================================================================
+Report      : WARNING
+Date        : Ter Set 20 10:40:43 BRT 2016
+Description : using network interface wlp2s0 (10.0.0.21) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <8228>
+Thread      : ddsi2 7fe9f189c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474378843.085036028
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 10:40:43 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <8228>
+Thread      : ddsi2 7fe9f189c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474378843.092088186
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 10:40:43 BRT 2016
+Description : The durability service can by identified by ID: 922158411
+Node        : meslin-laptop
+Process     : java <8228>
+Thread      : durability 7fe9f1c0b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474378843.198308374
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 10:40:50 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <8228>
+Thread      : durability 7fe9f1c0b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474378850.807116461
+========================================================================================
+Report      : WARNING
+Date        : Ter Set 20 11:17:43 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <9226>
+Thread      : main thread 7f042d2b9700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474381063.490728064
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 11:17:43 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <9226>
+Thread      : spliced 7f0428019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474381063.501357544
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 11:17:43 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <9226>
+Thread      : spliced 7f0428019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474381063.510322778
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 11:17:43 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <9226>
+Thread      : spliced 7f0428019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474381063.510818407
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 11:17:43 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <9226>
+Thread      : spliced 7f0428019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474381063.511448205
+========================================================================================
+Report      : WARNING
+Date        : Ter Set 20 11:17:43 BRT 2016
+Description : using network interface wlp2s0 (10.0.0.21) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <9226>
+Thread      : ddsi2 7f03f5859700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474381063.513934770
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 11:17:43 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <9226>
+Thread      : ddsi2 7f03f5859700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474381063.520230812
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 11:17:43 BRT 2016
+Description : The durability service can by identified by ID: 1658394694
+Node        : meslin-laptop
+Process     : java <9226>
+Thread      : durability 7f03f5bc8700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474381063.624862935
+========================================================================================
+Report      : INFO
+Date        : Ter Set 20 11:17:51 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <9226>
+Thread      : durability 7f03f5bc8700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474381071.033398269
+========================================================================================
+Report      : WARNING
+Date        : Qua Set 21 12:04:49 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <6956>
+Thread      : main thread 7fd9b106d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474470289.859597686
+========================================================================================
+Report      : INFO
+Date        : Qua Set 21 12:04:49 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <6956>
+Thread      : spliced 7fd9ac011700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474470289.888296582
+========================================================================================
+Report      : INFO
+Date        : Qua Set 21 12:04:49 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <6956>
+Thread      : spliced 7fd9ac011700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474470289.893383926
+========================================================================================
+Report      : INFO
+Date        : Qua Set 21 12:04:49 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <6956>
+Thread      : spliced 7fd9ac011700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474470289.893785392
+========================================================================================
+Report      : INFO
+Date        : Qua Set 21 12:04:49 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <6956>
+Thread      : spliced 7fd9ac011700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474470289.894356837
+========================================================================================
+Report      : WARNING
+Date        : Qua Set 21 12:04:49 BRT 2016
+Description : using network interface wlp2s0 (10.10.16.251) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <6956>
+Thread      : ddsi2 7fd98960e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474470289.896934561
+========================================================================================
+Report      : INFO
+Date        : Qua Set 21 12:04:49 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <6956>
+Thread      : ddsi2 7fd98960e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474470289.902302876
+========================================================================================
+Report      : INFO
+Date        : Qua Set 21 12:04:50 BRT 2016
+Description : The durability service can by identified by ID: 545340329
+Node        : meslin-laptop
+Process     : java <6956>
+Thread      : durability 7fd98997d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474470290.009428460
+========================================================================================
+Report      : INFO
+Date        : Qua Set 21 12:04:57 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <6956>
+Thread      : durability 7fd98997d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474470297.417425949
+========================================================================================
+Report      : WARNING
+Date        : Qua Set 21 17:50:33 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <7994>
+Thread      : main thread 7fb1b5ab8700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474491033.677988423
+========================================================================================
+Report      : INFO
+Date        : Qua Set 21 17:50:33 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <7994>
+Thread      : spliced 7fb19c049700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474491033.688329649
+========================================================================================
+Report      : INFO
+Date        : Qua Set 21 17:50:33 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <7994>
+Thread      : spliced 7fb19c049700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474491033.693085871
+========================================================================================
+Report      : INFO
+Date        : Qua Set 21 17:50:33 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <7994>
+Thread      : spliced 7fb19c049700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474491033.693503034
+========================================================================================
+Report      : INFO
+Date        : Qua Set 21 17:50:33 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7994>
+Thread      : spliced 7fb19c049700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474491033.694006554
+========================================================================================
+Report      : WARNING
+Date        : Qua Set 21 17:50:33 BRT 2016
+Description : using network interface wlp2s0 (139.82.244.16) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <7994>
+Thread      : ddsi2 7fb18603b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474491033.696678908
+========================================================================================
+Report      : INFO
+Date        : Qua Set 21 17:50:33 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7994>
+Thread      : ddsi2 7fb18603b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474491033.702638481
+========================================================================================
+Report      : INFO
+Date        : Qua Set 21 17:50:33 BRT 2016
+Description : The durability service can by identified by ID: 959966297
+Node        : meslin-laptop
+Process     : java <7994>
+Thread      : durability 7fb1863aa700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474491033.707555256
+========================================================================================
+Report      : INFO
+Date        : Qua Set 21 17:50:41 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7994>
+Thread      : durability 7fb1863aa700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474491041.115893196
+========================================================================================
+Report      : WARNING
+Date        : Qui Set 22 13:37:42 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <6476>
+Thread      : main thread 7fbcbd079700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474562262.554600696
+========================================================================================
+Report      : INFO
+Date        : Qui Set 22 13:37:42 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <6476>
+Thread      : spliced 7fbca401c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474562262.572457739
+========================================================================================
+Report      : INFO
+Date        : Qui Set 22 13:37:42 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <6476>
+Thread      : spliced 7fbca401c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474562262.578069413
+========================================================================================
+Report      : INFO
+Date        : Qui Set 22 13:37:42 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <6476>
+Thread      : spliced 7fbca401c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474562262.578665841
+========================================================================================
+Report      : INFO
+Date        : Qui Set 22 13:37:42 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <6476>
+Thread      : spliced 7fbca401c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474562262.579950760
+========================================================================================
+Report      : WARNING
+Date        : Qui Set 22 13:37:42 BRT 2016
+Description : using network interface wlp2s0 (10.0.0.21) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <6476>
+Thread      : ddsi2 7fbc8d60e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474562262.582278785
+========================================================================================
+Report      : INFO
+Date        : Qui Set 22 13:37:42 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <6476>
+Thread      : ddsi2 7fbc8d60e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474562262.587265528
+========================================================================================
+Report      : INFO
+Date        : Qui Set 22 13:37:42 BRT 2016
+Description : The durability service can by identified by ID: 1736005803
+Node        : meslin-laptop
+Process     : java <6476>
+Thread      : durability 7fbc8d97d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474562262.796808488
+========================================================================================
+Report      : INFO
+Date        : Qui Set 22 13:37:50 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <6476>
+Thread      : durability 7fbc8d97d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474562270.205161819
+========================================================================================
+Report      : WARNING
+Date        : Qui Set 22 15:17:16 BRT 2016
+Description : Missed heartbeat for node - heartbeat id : 1686379521. (DCPSPublication state 1)
+Node        : meslin-laptop
+Process     : java <6476>
+Thread      : OSPL Garbage Collector 7fbc8dc6e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_spliced/v_spliced.c/2439/0/1474568236.944294183
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 26 15:39:17 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <5527>
+Thread      : main thread 7fdf2e4e8700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1474915157.923128602
+========================================================================================
+Report      : INFO
+Date        : Seg Set 26 15:39:17 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <5527>
+Thread      : spliced 7fdf2802f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1474915157.934945279
+========================================================================================
+Report      : INFO
+Date        : Seg Set 26 15:39:17 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <5527>
+Thread      : spliced 7fdf2802f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1474915157.989904149
+========================================================================================
+Report      : INFO
+Date        : Seg Set 26 15:39:17 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <5527>
+Thread      : spliced 7fdf2802f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1474915157.990726302
+========================================================================================
+Report      : INFO
+Date        : Seg Set 26 15:39:17 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <5527>
+Thread      : spliced 7fdf2802f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474915157.991676802
+========================================================================================
+Report      : WARNING
+Date        : Seg Set 26 15:39:17 BRT 2016
+Description : using network interface wlp2s0 (139.82.2.191) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <5527>
+Thread      : ddsi2 7fdf06a7b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1474915157.994423842
+========================================================================================
+Report      : INFO
+Date        : Seg Set 26 15:39:17 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <5527>
+Thread      : ddsi2 7fdf06a7b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474915157.999041492
+========================================================================================
+Report      : INFO
+Date        : Seg Set 26 15:39:18 BRT 2016
+Description : The durability service can by identified by ID: 248261596
+Node        : meslin-laptop
+Process     : java <5527>
+Thread      : durability 7fdf06dea700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1474915158.105488730
+========================================================================================
+Report      : INFO
+Date        : Seg Set 26 15:39:25 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <5527>
+Thread      : durability 7fdf06dea700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1474915165.513954708
+========================================================================================
+Report      : WARNING
+Date        : Qua Set 28 15:19:38 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <4641>
+Thread      : main thread 7f3d0b024700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1475086778.134944001
+========================================================================================
+Report      : INFO
+Date        : Qua Set 28 15:19:38 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <4641>
+Thread      : spliced 7f3cec0ee700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1475086778.160770760
+========================================================================================
+Report      : INFO
+Date        : Qua Set 28 15:19:38 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <4641>
+Thread      : spliced 7f3cec0ee700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1475086778.169331854
+========================================================================================
+Report      : INFO
+Date        : Qua Set 28 15:19:38 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <4641>
+Thread      : spliced 7f3cec0ee700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1475086778.169989488
+========================================================================================
+Report      : INFO
+Date        : Qua Set 28 15:19:38 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <4641>
+Thread      : spliced 7f3cec0ee700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475086778.170882639
+========================================================================================
+Report      : WARNING
+Date        : Qua Set 28 15:19:38 BRT 2016
+Description : using network interface wlp2s0 (139.82.2.179) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <4641>
+Thread      : ddsi2 7f3ce75ad700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1475086778.173266223
+========================================================================================
+Report      : INFO
+Date        : Qua Set 28 15:19:38 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <4641>
+Thread      : ddsi2 7f3ce75ad700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475086778.178044987
+========================================================================================
+Report      : INFO
+Date        : Qua Set 28 15:19:38 BRT 2016
+Description : The durability service can by identified by ID: 610318379
+Node        : meslin-laptop
+Process     : java <4641>
+Thread      : durability 7f3ce791c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1475086778.283646885
+========================================================================================
+Report      : INFO
+Date        : Qua Set 28 15:19:45 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <4641>
+Thread      : durability 7f3ce791c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475086785.722891117
+========================================================================================
+Report      : WARNING
+Date        : Sex Set 30 10:28:21 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <7126>
+Thread      : main thread 7f1244290700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1475242101.669690737
+========================================================================================
+Report      : INFO
+Date        : Sex Set 30 10:28:21 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <7126>
+Thread      : spliced 7f121504e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1475242101.703116120
+========================================================================================
+Report      : INFO
+Date        : Sex Set 30 10:28:21 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <7126>
+Thread      : spliced 7f121504e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1475242101.711115803
+========================================================================================
+Report      : INFO
+Date        : Sex Set 30 10:28:21 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <7126>
+Thread      : spliced 7f121504e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1475242101.711524895
+========================================================================================
+Report      : INFO
+Date        : Sex Set 30 10:28:21 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7126>
+Thread      : spliced 7f121504e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475242101.712367636
+========================================================================================
+Report      : WARNING
+Date        : Sex Set 30 10:28:21 BRT 2016
+Description : using network interface wlp2s0 (139.82.244.82) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <7126>
+Thread      : ddsi2 7f1214827700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1475242101.714622289
+========================================================================================
+Report      : INFO
+Date        : Sex Set 30 10:28:21 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7126>
+Thread      : ddsi2 7f1214827700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475242101.720756975
+========================================================================================
+Report      : INFO
+Date        : Sex Set 30 10:28:21 BRT 2016
+Description : The durability service can by identified by ID: 2044452509
+Node        : meslin-laptop
+Process     : java <7126>
+Thread      : durability 7f1214b96700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1475242101.824870284
+========================================================================================
+Report      : INFO
+Date        : Sex Set 30 10:28:29 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7126>
+Thread      : durability 7f1214b96700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475242109.232842852
+========================================================================================
+Report      : WARNING
+Date        : Sex Set 30 12:15:16 BRT 2016
+Description : Missed heartbeat for node - heartbeat id : 811263382. (DCPSPublication state 1)
+Node        : meslin-laptop
+Process     : java <7126>
+Thread      : OSPL Garbage Collector 7f1214e87700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_spliced/v_spliced.c/2439/0/1475248516.088690098
+========================================================================================
+Report      : WARNING
+Date        : Seg Out 03 13:32:27 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <4651>
+Thread      : main thread 7fbe2e7e5700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1475512347.804355151
+========================================================================================
+Report      : INFO
+Date        : Seg Out 03 13:32:27 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <4651>
+Thread      : spliced 7fbe141be700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1475512347.826999097
+========================================================================================
+Report      : INFO
+Date        : Seg Out 03 13:32:27 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <4651>
+Thread      : spliced 7fbe141be700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1475512347.834759613
+========================================================================================
+Report      : INFO
+Date        : Seg Out 03 13:32:27 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <4651>
+Thread      : spliced 7fbe141be700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1475512347.835253773
+========================================================================================
+Report      : INFO
+Date        : Seg Out 03 13:32:27 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <4651>
+Thread      : spliced 7fbe141be700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475512347.835845364
+========================================================================================
+Report      : WARNING
+Date        : Seg Out 03 13:32:27 BRT 2016
+Description : using network interface wlp2s0 (139.82.245.51) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <4651>
+Thread      : ddsi2 7fbe06cd6700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1475512347.838742450
+========================================================================================
+Report      : INFO
+Date        : Seg Out 03 13:32:27 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <4651>
+Thread      : ddsi2 7fbe06cd6700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475512347.845166339
+========================================================================================
+Report      : INFO
+Date        : Seg Out 03 13:32:27 BRT 2016
+Description : The durability service can by identified by ID: 1521552218
+Node        : meslin-laptop
+Process     : java <4651>
+Thread      : durability 7fbe07045700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1475512347.953984840
+========================================================================================
+Report      : INFO
+Date        : Seg Out 03 13:32:35 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <4651>
+Thread      : durability 7fbe07045700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475512355.361827300
+========================================================================================
+Report      : WARNING
+Date        : Qua Out 05 12:05:38 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <7124>
+Thread      : main thread 7f1c41979700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1475679938.254197064
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 12:05:38 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <7124>
+Thread      : spliced 7f1c20019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1475679938.268964771
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 12:05:38 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <7124>
+Thread      : spliced 7f1c20019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1475679938.277026951
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 12:05:38 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <7124>
+Thread      : spliced 7f1c20019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1475679938.277604903
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 12:05:38 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7124>
+Thread      : spliced 7f1c20019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475679938.278794879
+========================================================================================
+Report      : WARNING
+Date        : Qua Out 05 12:05:38 BRT 2016
+Description : using network interface wlp2s0 (10.10.16.251) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <7124>
+Thread      : ddsi2 7f1bda864700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1475679938.289509721
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 12:05:38 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7124>
+Thread      : ddsi2 7f1bda864700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475679938.295869910
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 12:05:38 BRT 2016
+Description : The durability service can by identified by ID: 574900836
+Node        : meslin-laptop
+Process     : java <7124>
+Thread      : durability 7f1bdabd3700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1475679938.596136553
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 12:05:46 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7124>
+Thread      : durability 7f1bdabd3700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475679946.005032430
+========================================================================================
+Report      : WARNING
+Date        : Qua Out 05 12:09:05 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <7330>
+Thread      : main thread 7fae384b4700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1475680145.501231235
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 12:09:05 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <7330>
+Thread      : spliced 7fae18019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1475680145.521481471
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 12:09:05 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <7330>
+Thread      : spliced 7fae18019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1475680145.544888145
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 12:09:05 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <7330>
+Thread      : spliced 7fae18019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1475680145.546509159
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 12:09:05 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7330>
+Thread      : spliced 7fae18019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475680145.547424341
+========================================================================================
+Report      : WARNING
+Date        : Qua Out 05 12:09:05 BRT 2016
+Description : using network interface wlp2s0 (10.10.16.251) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <7330>
+Thread      : ddsi2 7fade12ff700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1475680145.552903638
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 12:09:05 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7330>
+Thread      : ddsi2 7fade12ff700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475680145.570300936
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 12:09:05 BRT 2016
+Description : The durability service can by identified by ID: 494834923
+Node        : meslin-laptop
+Process     : java <7330>
+Thread      : durability 7fade1691700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1475680145.864938111
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 12:09:13 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7330>
+Thread      : durability 7fade1691700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475680153.273084971
+========================================================================================
+Report      : WARNING
+Date        : Qua Out 05 17:29:16 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <6459>
+Thread      : main thread 7fcd6bc99700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1475699356.854688145
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:29:16 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <6459>
+Thread      : spliced 7fcd54010700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1475699356.865700649
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:29:16 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <6459>
+Thread      : spliced 7fcd54010700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1475699356.870905073
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:29:16 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <6459>
+Thread      : spliced 7fcd54010700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1475699356.871384695
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:29:16 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <6459>
+Thread      : spliced 7fcd54010700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475699356.872287053
+========================================================================================
+Report      : WARNING
+Date        : Qua Out 05 17:29:16 BRT 2016
+Description : using network interface wlp2s0 (139.82.2.216) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <6459>
+Thread      : ddsi2 7fcd150ae700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1475699356.876098444
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:29:16 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <6459>
+Thread      : ddsi2 7fcd150ae700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475699356.883883288
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:29:17 BRT 2016
+Description : The durability service can by identified by ID: 599066989
+Node        : meslin-laptop
+Process     : java <6459>
+Thread      : durability 7fcd1541d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1475699357.187809871
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:29:24 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <6459>
+Thread      : durability 7fcd1541d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475699364.595971169
+========================================================================================
+Report      : WARNING
+Date        : Qua Out 05 17:35:36 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <6866>
+Thread      : main thread 7f5f7ea03700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1475699736.768282486
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:35:36 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <6866>
+Thread      : spliced 7f5f640b1700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1475699736.783662313
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:35:36 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <6866>
+Thread      : spliced 7f5f640b1700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1475699736.797540741
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:35:36 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <6866>
+Thread      : spliced 7f5f640b1700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1475699736.798055150
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:35:36 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <6866>
+Thread      : spliced 7f5f640b1700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475699736.799134456
+========================================================================================
+Report      : WARNING
+Date        : Qua Out 05 17:35:36 BRT 2016
+Description : using network interface wlp2s0 (139.82.2.216) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <6866>
+Thread      : ddsi2 7f5f07824700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1475699736.802873005
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:35:36 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <6866>
+Thread      : ddsi2 7f5f07824700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475699736.811789657
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:35:36 BRT 2016
+Description : The durability service can by identified by ID: 514700332
+Node        : meslin-laptop
+Process     : java <6866>
+Thread      : durability 7f5f07b93700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1475699736.817742285
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:35:44 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <6866>
+Thread      : durability 7f5f07b93700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475699744.225444807
+========================================================================================
+Report      : WARNING
+Date        : Qua Out 05 17:45:50 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <7975>
+Thread      : main thread 7f426a141700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1475700350.077450150
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:45:50 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <7975>
+Thread      : spliced 7f426401e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1475700350.098844875
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:45:50 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <7975>
+Thread      : spliced 7f426401e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1475700350.108209628
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:45:50 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <7975>
+Thread      : spliced 7f426401e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1475700350.108767226
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:45:50 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7975>
+Thread      : spliced 7f426401e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475700350.116263624
+========================================================================================
+Report      : WARNING
+Date        : Qua Out 05 17:45:50 BRT 2016
+Description : using network interface wlp2s0 (139.82.2.216) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <7975>
+Thread      : ddsi2 7f41fafe8700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1475700350.126360090
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:45:50 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7975>
+Thread      : ddsi2 7f41fafe8700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475700350.140983169
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:45:50 BRT 2016
+Description : The durability service can by identified by ID: 982367175
+Node        : meslin-laptop
+Process     : java <7975>
+Thread      : durability 7f41fb357700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1475700350.441368399
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:45:57 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <7975>
+Thread      : durability 7f41fb357700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475700357.849430015
+========================================================================================
+Report      : WARNING
+Date        : Qua Out 05 17:46:50 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <8125>
+Thread      : main thread 7f999531d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1475700410.301915462
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:46:50 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <8125>
+Thread      : spliced 7f996c019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1475700410.310901194
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:46:50 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <8125>
+Thread      : spliced 7f996c019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1475700410.319247457
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:46:50 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <8125>
+Thread      : spliced 7f996c019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1475700410.319750678
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:46:50 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <8125>
+Thread      : spliced 7f996c019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475700410.322451762
+========================================================================================
+Report      : WARNING
+Date        : Qua Out 05 17:46:50 BRT 2016
+Description : using network interface wlp2s0 (139.82.2.216) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <8125>
+Thread      : ddsi2 7f99321e1700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1475700410.336042404
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:46:50 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <8125>
+Thread      : ddsi2 7f99321e1700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475700410.367682935
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:46:50 BRT 2016
+Description : The durability service can by identified by ID: 55863327
+Node        : meslin-laptop
+Process     : java <8125>
+Thread      : durability 7f9932550700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1475700410.858146651
+========================================================================================
+Report      : INFO
+Date        : Qua Out 05 17:46:58 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <8125>
+Thread      : durability 7f9932550700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1475700418.267419577
+========================================================================================
+Report      : WARNING
+Date        : Dom Out 09 17:22:53 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <16296>
+Thread      : main thread 7fb06ce12700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1476044573.981877686
+========================================================================================
+Report      : INFO
+Date        : Dom Out 09 17:22:54 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <16296>
+Thread      : spliced 7fb04c019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1476044574.021462293
+========================================================================================
+Report      : INFO
+Date        : Dom Out 09 17:22:54 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <16296>
+Thread      : spliced 7fb04c019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1476044574.028063284
+========================================================================================
+Report      : INFO
+Date        : Dom Out 09 17:22:54 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <16296>
+Thread      : spliced 7fb04c019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1476044574.028656889
+========================================================================================
+Report      : INFO
+Date        : Dom Out 09 17:22:54 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <16296>
+Thread      : spliced 7fb04c019700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1476044574.029390215
+========================================================================================
+Report      : WARNING
+Date        : Dom Out 09 17:22:54 BRT 2016
+Description : using network interface wlp2s0 (10.0.0.21) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <16296>
+Thread      : ddsi2 7fb00e26c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1476044574.032616703
+========================================================================================
+Report      : INFO
+Date        : Dom Out 09 17:22:54 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <16296>
+Thread      : ddsi2 7fb00e26c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1476044574.042646117
+========================================================================================
+Report      : INFO
+Date        : Dom Out 09 17:22:54 BRT 2016
+Description : The durability service can by identified by ID: 1291022647
+Node        : meslin-laptop
+Process     : java <16296>
+Thread      : durability 7fb00e5db700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1476044574.247117860
+========================================================================================
+Report      : WARNING
+Date        : Dom Out 09 17:23:11 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <16382>
+Thread      : main thread 7f78c12e7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1476044591.062403081
+========================================================================================
+Report      : INFO
+Date        : Dom Out 09 17:23:11 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <16382>
+Thread      : spliced 7f78a8017700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1476044591.073541508
+========================================================================================
+Report      : INFO
+Date        : Dom Out 09 17:23:11 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <16382>
+Thread      : spliced 7f78a8017700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1476044591.082229122
+========================================================================================
+Report      : INFO
+Date        : Dom Out 09 17:23:11 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <16382>
+Thread      : spliced 7f78a8017700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1476044591.082756047
+========================================================================================
+Report      : INFO
+Date        : Dom Out 09 17:23:11 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <16382>
+Thread      : spliced 7f78a8017700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1476044591.084399295
+========================================================================================
+Report      : WARNING
+Date        : Dom Out 09 17:23:11 BRT 2016
+Description : using network interface wlp2s0 (10.0.0.21) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <16382>
+Thread      : ddsi2 7f785a60f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1476044591.087536180
+========================================================================================
+Report      : INFO
+Date        : Dom Out 09 17:23:11 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <16382>
+Thread      : ddsi2 7f785a60f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1476044591.099297266
+========================================================================================
+Report      : INFO
+Date        : Dom Out 09 17:23:11 BRT 2016
+Description : The durability service can by identified by ID: 1356448404
+Node        : meslin-laptop
+Process     : java <16382>
+Thread      : durability 7f785a97e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1476044591.505940876
+========================================================================================
+Report      : INFO
+Date        : Dom Out 09 17:23:18 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <16382>
+Thread      : durability 7f785a97e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1476044598.913942479
+========================================================================================
+Report      : WARNING
+Date        : Dom Out 09 17:24:13 BRT 2016
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : meslin-laptop
+Process     : java <16508>
+Thread      : main thread 7f0aedca3700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OS abstraction layer/os_signalHandler.c/107/0/1476044653.034349960
+========================================================================================
+Report      : INFO
+Date        : Dom Out 09 17:24:13 BRT 2016
+Description : u_domainNew:Database allocated on heap
+Node        : meslin-laptop
+Process     : java <16508>
+Thread      : spliced 7f0ad401b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1476044653.048488237
+========================================================================================
+Report      : INFO
+Date        : Dom Out 09 17:24:13 BRT 2016
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : meslin-laptop
+Process     : java <16508>
+Thread      : spliced 7f0ad401b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1476044653.056413409
+========================================================================================
+Report      : INFO
+Date        : Dom Out 09 17:24:13 BRT 2016
+Description : Service cmsoap disabled
+Node        : meslin-laptop
+Process     : java <16508>
+Thread      : spliced 7f0ad401b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1476044653.056847533
+========================================================================================
+Report      : INFO
+Date        : Dom Out 09 17:24:13 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <16508>
+Thread      : spliced 7f0ad401b700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1476044653.057374938
+========================================================================================
+Report      : WARNING
+Date        : Dom Out 09 17:24:13 BRT 2016
+Description : using network interface wlp2s0 (10.0.0.21) selected arbitrarily from: wlp2s0, vmnet1, vmnet8
+
+Node        : meslin-laptop
+Process     : java <16508>
+Thread      : ddsi2 7f0a82e6a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_nwif.c/668/0/1476044653.069640836
+========================================================================================
+Report      : INFO
+Date        : Dom Out 09 17:24:13 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <16508>
+Thread      : ddsi2 7f0a82e6a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1476044653.075722615
+========================================================================================
+Report      : INFO
+Date        : Dom Out 09 17:24:13 BRT 2016
+Description : The durability service can by identified by ID: 843295823
+Node        : meslin-laptop
+Process     : java <16508>
+Thread      : durability 7f0a831d9700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1476044653.269328825
+========================================================================================
+Report      : INFO
+Date        : Dom Out 09 17:24:20 BRT 2016
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : meslin-laptop
+Process     : java <16508>
+Thread      : durability 7f0a831d9700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1476044660.678708066

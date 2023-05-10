@@ -1,0 +1,2185 @@
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:43 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596203.059643661
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:43 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596203.159721958
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:43 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596203.259823716
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:43 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596203.460060632
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:43 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596203.720228649
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:43 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596203.860211203
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:44 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596204.059798246
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:44 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596204.159944139
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:44 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596204.260074834
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:44 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596204.460191895
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:44 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596204.860374504
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:45 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596205.060010057
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:45 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596205.160183750
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:45 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596205.260329878
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:45 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596205.460463540
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:45 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596205.703434320
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:45 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596205.705180621
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:45 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596205.705279718
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:45 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596205.705336173
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:45 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596205.720443080
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:45 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596205.803583617
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:45 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596205.805292091
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:45 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596205.805449522
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:45 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596205.805503338
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:45 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596205.860637309
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:45 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596205.903754715
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:45 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596205.905391677
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:45 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596205.905493872
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:45 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596205.905543889
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:46 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596206.060218087
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:46 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596206.103924330
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:46 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596206.105536597
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:46 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596206.105631950
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:46 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596206.105709320
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:46 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596206.160396358
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:46 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596206.260563357
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:46 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596206.409208088
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:46 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596206.460659591
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:46 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596206.504091379
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:46 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596206.505683574
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:46 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596206.505778957
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:46 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596206.505828062
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:46 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596206.509352740
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:46 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596206.609488068
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:46 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596206.809667372
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:46 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596206.860857860
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:46 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596206.890181387
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:46 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596206.990332520
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:47 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596207.060426281
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:47 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596207.090487997
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:47 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596207.160589591
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:47 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596207.209839102
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:47 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596207.260739797
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:47 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596207.290654302
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:47 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596207.304228728
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:47 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596207.305811942
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:47 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596207.305908294
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:47 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596207.305957022
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:47 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596207.460868406
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:47 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596207.690798552
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:47 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596207.720667327
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:47 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596207.861046689
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:48 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596208.009974367
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:48 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596208.060608315
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:48 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596208.160777680
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:48 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596208.260987036
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:48 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596208.461075931
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:48 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596208.490971684
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:48 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596208.861173232
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:48 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596208.904453659
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:48 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596208.905958151
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:48 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596208.906052646
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:48 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596208.906101663
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:49 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596209.060834475
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:49 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596209.161011826
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:49 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596209.261082360
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:49 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596209.461190977
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:49 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596209.610147951
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:49 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596209.720895316
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:49 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596209.861285526
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:50 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596210.061023934
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:50 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596210.091139175
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:50 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596210.161163328
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:50 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596210.261316608
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:50 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596210.415614989
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:50 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596210.415745050
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:50 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596210.461471733
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:50 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596210.615941084
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:50 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596210.716093220
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:50 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596210.861615521
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:50 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596210.916251583
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:51 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596211.061246274
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:51 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596211.161409474
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:51 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596211.261568526
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:51 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596211.316386039
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:51 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596211.461727976
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:51 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596211.704320166
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:51 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596211.705926985
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:51 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596211.721009420
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:51 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596211.861919547
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:52 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596212.061443311
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:52 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596212.104621095
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:52 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596212.106107574
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:52 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596212.106202726
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:52 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596212.106251644
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:52 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596212.116560885
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:52 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596212.161602461
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:52 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596212.261743151
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:52 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596212.461918359
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:52 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596212.862096976
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:52 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596212.890971515
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:53 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596213.061643728
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:53 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596213.161802271
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:53 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596213.261976398
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:53 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596213.291307961
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:53 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596213.462129081
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:53 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596213.716713798
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:53 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596213.721243984
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:53 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596213.862289624
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:54 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596214.061846411
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:54 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596214.161982161
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:54 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596214.262128879
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:54 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596214.462315554
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:54 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596214.862502273
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:55 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596215.062041937
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:55 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596215.162186339
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:55 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596215.262348872
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:55 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596215.462521256
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:55 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596215.721400080
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:55 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596215.862701106
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:56 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596216.062240480
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:56 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596216.162416389
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:56 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596216.262585276
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:56 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596216.462757365
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:56 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596216.862910980
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:56 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596216.916875471
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:57 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596217.062416776
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:57 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596217.162575990
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:57 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596217.262724109
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:57 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596217.462885382
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:57 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596217.721547656
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:57 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596217.863054347
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:58 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596218.062640657
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:58 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596218.162817933
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:58 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596218.262999672
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:58 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596218.463177985
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:58 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596218.504791790
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:58 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596218.506294477
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:58 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596218.506418603
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:58 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596218.506468031
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:58 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596218.863368032
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:59 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596219.062870686
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:59 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596219.163042723
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:59 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596219.263204377
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:59 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596219.463359279
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:59 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596219.691458596
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:59 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596219.721701239
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:36:59 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596219.863534860
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:00 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596220.063040243
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:00 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596220.163200889
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:00 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596220.263371538
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:00 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596220.463504787
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:00 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596220.863681650
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:01 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596221.063268031
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:01 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596221.163433609
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:01 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596221.263603611
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:01 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596221.463735387
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:01 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596221.721867480
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:01 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596221.863914915
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:02 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596222.063415329
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:02 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596222.163610949
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:02 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596222.263780334
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:02 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596222.463916117
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:02 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596222.864039873
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:03 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596223.063703153
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:03 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596223.163877848
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:03 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596223.264007372
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:03 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596223.317066844
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:03 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596223.464147403
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:03 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596223.721965158
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:03 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596223.864333446
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:04 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596224.063808025
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:04 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596224.163937756
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:04 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596224.264108453
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:04 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596224.464253784
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:04 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596224.864402383
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:04 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596224.904990033
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:04 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596224.906461385
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:04 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596224.906579507
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:04 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596224.906628799
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:05 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596225.064026102
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:05 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596225.164178162
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:05 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596225.264325066
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:05 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596225.464461272
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:05 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596225.722061593
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:05 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596225.864627131
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:06 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596226.064238135
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:06 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596226.091629318
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:06 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596226.164417902
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:06 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596226.264579696
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:06 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596226.464761323
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:06 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596226.864963116
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:07 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596227.064397206
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:07 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596227.164562159
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:07 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596227.264733005
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:07 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596227.464908823
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:07 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596227.722225578
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:07 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596227.865058408
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:08 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596228.064608679
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:08 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596228.164776859
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:08 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596228.264967464
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:08 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596228.465106744
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:08 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596228.865302018
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:09 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596229.064640429
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:09 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596229.164849402
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:09 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596229.265029999
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:09 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596229.465090876
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:09 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596229.717214255
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:09 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596229.722437814
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:09 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596229.865178617
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:10 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596230.064846022
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:10 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596230.165006640
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:10 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596230.265097925
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:10 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596230.465187638
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:10 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596230.865363764
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:11 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596231.065130906
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:11 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596231.165296473
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:11 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596231.265402754
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:11 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596231.305117218
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:11 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596231.306627859
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:11 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596231.306747266
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:11 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596231.306795902
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:11 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596231.465537369
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:11 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596231.722601076
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:11 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596231.865714690
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:12 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : xmit.user 7f747884a640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596232.065325760
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:12 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596232.165500994
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:12 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596232.265663853
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:12 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596232.465727951
+========================================================================================
+Report      : ERROR
+Date        : seg mai 08 22:37:12 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683596232.491723299
+========================================================================================
+Report      : ERROR
+Date        : ter mai 09 09:36:57 -03 2023
+Description : Durability failed to renew its lease within the configured lease expiry-time (10.000000000). The lease renewal took 39585.308228423 s.
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : leaseThread 7f7478839640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/Durability Service/d_durability.c/182/0/1683635817.340113303
+========================================================================================
+Report      : ERROR
+Date        : ter mai 09 09:36:57 -03 2023
+Description : ddsi_conn_write failed -1
+
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : tev 7f7480015640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1683635817.341700138
+========================================================================================
+Report      : ERROR
+Date        : ter mai 09 09:36:57 -03 2023
+Description : Splice-daemon failed to renew its lease within the configured lease expiry-time (10.000000000). The lease renewal took 39585.632073051 s.
+Node        : josivan-Nitro-AN515-54
+Process     : java <132667>
+Thread      : OSPL Lease Renew Thread 7f7455cfe640
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/spliced.c/153/0/1683635817.354423497
